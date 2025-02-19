@@ -25,7 +25,7 @@ Tilin Audio Visualizer is a real-time audio visualizer application developed usi
 
 Clone this repository to your local machine:
 bash
-git clone https://github.com/yourusername/Tilin_Audio_Visualizer.git
+git clone https://[github.com/TilinSolutions/Tilin_Audio_Visualizer](https://github.com/TilinSolutions/Tilin-Audio-Visualizer)
 cd Tilin_Audio_Visualizer
 
 ### 2. Build the Application
