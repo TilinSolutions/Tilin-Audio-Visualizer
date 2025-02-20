@@ -1,3 +1,8 @@
+# HEAVY WORK IN PROGRESS
+
+
+
+
 # Tilin Audio Visualizer
 
 Tilin Audio Visualizer is a real-time audio visualizer application developed using SDL3 and FFTW3. It processes audio input and displays a colorful frequency spectrum visualization. This project is built as a Windows-only application and is a testament to advanced audio processing, multithreading, and real-time graphics rendering in C.
